@@ -1,4 +1,4 @@
-# Distributed TensorFlow training using Kubeflow on Amazon EKS
+# Distributed TensorFlow training using Kubeflow on Amazon EKS--
 
 ## Prerequisites
 1. [Create and activate an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
